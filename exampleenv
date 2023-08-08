@@ -1,0 +1,4 @@
+EMAIL="demo@admin.com"
+PASSWORD="demo@123"
+APIURL = "https://stageapi.swanbay.tv"
+UIURL="https://brugge.plnt.tv/"
